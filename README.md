@@ -19,21 +19,6 @@ It compares transactions from both sources, identifies matches, and highlights r
 
 ---
 
-## Project Structure
-python-bank-reconciliation/
-│
-├── data/
-│   ├── bank_statement.xlsx
-│   ├── company_ledger.xlsx
-│
-├── output/
-│   ├── reconciliation_result.xlsx
-│
-├── reconciliation.ipynb
-├── README.md
-
----
-
 ## Tools & Libraries Used
 - Python
 - Pandas
